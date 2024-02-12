@@ -453,7 +453,6 @@ console.log("Subtraction of 5 from 10: ", subtractNumbers(10, 5));
 console.log("Multiplication of 4 and 7: ", multiplyNumbers(4, 7));
 console.log("Division of 20 by 5: ", divideNumbers(20, 5));
 
-v
 // Function to add two numbers
 function addNumbers(a, b) {
     return a + b;
